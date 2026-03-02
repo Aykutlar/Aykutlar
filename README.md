@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Aykutlar/Aykutlar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Aykutlar, an Embedded Systems engineer based in Germany.
+I enjoy building reliable hardware–software systems and keeping designs clean and efficient.
 
-Here are some ideas to get you started:
+These days I’m focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React Native
+* SQL
+* Web Development
+* Small programs to test and explore ideas
+
+---
+
+## Some stuff I build:
+
+* Embedded firmware for microcontroller-based systems
+* Hardware prototypes from schematic to working device
+* 3D-printed functional components
+
+---
+
+## Fun Facts:
+
+* I play Rocket League
+* I like understanding systems from signal level up
+* Hobbies: gym & building things
+
+---
