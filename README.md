@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 I’m Aykutlar, an Embedded Systems engineer based in Germany.
 I enjoy building reliable hardware–software systems and keeping designs clean and efficient.
@@ -12,7 +12,7 @@ These days I’m focused on:
 
 ---
 
-## Some stuff I build:
+# Some stuff I build:
 
 * Embedded firmware for microcontroller-based systems
 * Hardware prototypes from schematic to working device
@@ -20,10 +20,8 @@ These days I’m focused on:
 
 ---
 
-## Fun Facts:
+# Fun Facts:
 
 * I play Rocket League
 * I like understanding systems from signal level up
 * Hobbies: gym & building things
-
----
